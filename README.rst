@@ -58,13 +58,6 @@ Or, you can add it as a dependency on your own product ``setup.py`` file: ::
     ],
 
 
-..
-    Enabling the theme
-    ^^^^^^^^^^^^^^^^^^
-
-    Select and enable the theme from the Diazo control panel. That's it!
-
-
 Themes that use it
 ==================
 
@@ -77,8 +70,8 @@ This framework is used by:
 For more frameworks see: the `diazoframework.plone`_ package.
 
 
-Goldilocks Resources
-====================
+Resources
+=========
 
 The resources of this framework can be reached through 
 ``/++framework++goldilocks`` and there are placed at 
@@ -111,6 +104,7 @@ License
 =======
 
 The project is licensed under the GPLv2.
+
 
 Credits
 -------
