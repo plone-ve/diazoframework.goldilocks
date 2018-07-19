@@ -7,7 +7,7 @@ setup(name='diazoframework.goldilocks',
       version=version,
       description="A Diazo framework implementation for the Goldilocks Approach CSS framework",
       long_description=open("README.rst").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+                       open("CHANGES.txt").read(),
       # Get more strings from
       # https://pypi.org/pypi?:action=list_classifiers
       classifiers=[
